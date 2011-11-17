@@ -11,4 +11,4 @@ call pathogen#helptags()
 
 
 filetype plugin indent on
-
+let g:pydiction_location = '~/.vim/bundle/pydiction/complete-dict'
